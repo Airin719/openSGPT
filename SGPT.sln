@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGPT", "SGPT\SGPT.csproj", "{2BFAF71D-2AF1-4E2A-9631-0A3671BC08C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vista", "SGPT\Vista.csproj", "{2BFAF71D-2AF1-4E2A-9631-0A3671BC08C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGPT-Model", "SGPT-Model\SGPT-Model.csproj", "{7FCD87AB-595B-4600-A0AD-B636BD20E857}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "SGPT-Model\Model.csproj", "{7FCD87AB-595B-4600-A0AD-B636BD20E857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGPT-Impl", "SGPT-Impl\SGPT-Impl.csproj", "{A683FB8D-B0E8-4EFC-8AA0-E151E8567575}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlador", "SGPT-Controlador\Controlador.csproj", "{57D138A4-DBF2-4902-9928-1FB5E15FB5EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{7FCD87AB-595B-4600-A0AD-B636BD20E857}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FCD87AB-595B-4600-A0AD-B636BD20E857}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FCD87AB-595B-4600-A0AD-B636BD20E857}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A683FB8D-B0E8-4EFC-8AA0-E151E8567575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A683FB8D-B0E8-4EFC-8AA0-E151E8567575}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A683FB8D-B0E8-4EFC-8AA0-E151E8567575}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A683FB8D-B0E8-4EFC-8AA0-E151E8567575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57D138A4-DBF2-4902-9928-1FB5E15FB5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57D138A4-DBF2-4902-9928-1FB5E15FB5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57D138A4-DBF2-4902-9928-1FB5E15FB5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57D138A4-DBF2-4902-9928-1FB5E15FB5EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
